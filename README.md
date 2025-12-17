@@ -3,7 +3,7 @@ I love ☕, 🎮, and ⚾
 
 
 ## 🌐 Socials:
- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/johnpatrick.blanco)
+ [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/johnpatrick.blanco.33)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cloudi_pat) 
 
 # 💻 Tech Stack:
